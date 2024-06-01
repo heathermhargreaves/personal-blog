@@ -11,4 +11,6 @@ My specific role was focused on using IBM's Watson sentiment API in a Twilio ser
 
 The experience with my teammates was a blast, and we won the hackathon beating out 20+ teams and over 100 participants.
 
+This guide was originally published on Twilio's blog.
+
 **Original post: [Integrate Discord and Sentiment Analysis with Twilio Flex](https://www.twilio.com/en-us/blog/discord-sentiment-analysis-twilio-flex)**
